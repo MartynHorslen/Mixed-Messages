@@ -28,7 +28,7 @@ The purpose of the project is to practice using JavaScript, Git version control,
 - JavaScript
 - Git & GitHub
 
-<!-->
+<!--
 ## Current Features
 
 
@@ -48,12 +48,12 @@ How does one go about using it?
 Provide various use cases and code examples here.
 
 `write-your-code-here`
-<!-->
 
+-->
 ## Project Status
 Planning & Designing.
 
-<!-->
+<!--
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
@@ -64,19 +64,17 @@ Room for improvement:
 To do:
 - Feature to be added 1
 - Feature to be added 2
-<!-->
 
+-->
 ## Acknowledgements
 Give credit here.
 - This project was based on the Codecademy.com 'Mixed Messages' portfolio project.
 
-<!-->
+<!--
 ## Contact
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-<!-->
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## License
+This project is open source and available under the [... License]().
+You don't have to include all sections - just the one's relevant to your project -->
