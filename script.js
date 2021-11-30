@@ -39,4 +39,7 @@ messages.adjectives = "swiftly";
 // Generate message.
 messages.generate();
 
-/* Maybe in the future I could add a html page to display the message when the page loads using document.getElement(s)ByTagName/ID/ClassName. */
+/* 
+Maybe in the future I could add a html page to display the message when the page loads using document.getElement(s)ByTagName/ID/ClassName. 
+Maybe I could also use form input to add words to the arrays.
+*/
