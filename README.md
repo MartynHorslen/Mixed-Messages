@@ -67,8 +67,7 @@ To do:
 
 -->
 ## Acknowledgements
-Give credit here.
-- This project was based on the Codecademy.com 'Mixed Messages' portfolio project.
+This project was based on the Codecademy.com 'Mixed Messages' portfolio project.
 
 <!--
 ## Contact
